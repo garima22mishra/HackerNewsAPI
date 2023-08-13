@@ -1,13 +1,13 @@
 # HackerNewsAPI
-# To open project in Eclipse IDE:
+I) To open project in Eclipse IDE:
 File -> Open Projects from File System -> Import Source -> In Directory select "HackerNewsAPI".
 
 
-#To Run the project: 
+II) To Run the project: 
 Right click on HackerNewsAPI -> Run as -> Run on Server -> Select Tomcat v8.5 Server or above.
 
 
-#On REST API tester provide the following details to run the APIs.
+III) On REST API tester provide the following details to run the APIs.
 
 Request header:
 Content-Type: application/x-www-form-urlencoded
